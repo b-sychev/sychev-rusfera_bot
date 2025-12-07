@@ -1,7 +1,3 @@
-﻿"""
-RusferaBot_Final.py - Официальный бот сервиса "Русфера" (Сургут)
-"""
-
 import logging
 import sys
 import random
