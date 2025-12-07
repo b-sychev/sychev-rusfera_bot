@@ -1,0 +1,11 @@
+.env
+*.env
+secrets.ini
+*.log
+logs/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.vscode/
+.idea/
