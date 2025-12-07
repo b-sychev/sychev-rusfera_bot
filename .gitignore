@@ -9,3 +9,6 @@ __pycache__/
 venv/
 .vscode/
 .idea/
+*.log
+__pycache__/
+*.pyc
