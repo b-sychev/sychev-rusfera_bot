@@ -1,0 +1,50 @@
+{
+  "RUS-20251214-723": {
+    "number": "RUS-20251214-723",
+    "service_type": "1",
+    "problem": "да",
+    "contacts": "Иван Петров, +7 (900) 123-45-67",
+    "user_name": "Echo",
+    "status": "На диагностике",
+    "created_date": "14.12.2025 02:31",
+    "ready_date": "20.12.2025",
+    "master": "Иван Сидоров",
+    "master_phone": "+7 (900) 123-45-67"
+  },
+  "RUS-20251214-209": {
+    "number": "RUS-20251214-209",
+    "service_type": "1",
+    "problem": "да проблема",
+    "contacts": "Иван Петров, +7 (900) 123-45-67",
+    "user_name": "Echo",
+    "status": "Принята в обработку",
+    "created_date": "14.12.2025 02:42",
+    "ready_date": "19.12.2025",
+    "master": "Иван Сидоров",
+    "master_phone": "+7 (900) 123-45-67"
+  },
+  "RUS-20251214-309": {
+    "number": "RUS-20251214-309",
+    "service_type": "1",
+    "problem": "ноутбук сломался",
+    "contacts": "Иван Петров, +7 (900) 123-45-67",
+    "user_name": "Echo",
+    "status": "На диагностике",
+    "created_date": "14.12.2025 02:51",
+    "ready_date": "18.12.2025",
+    "master": "Алексей Петров",
+    "master_phone": "+7 (900) 123-45-67"
+  },
+  "RUS-TEST-888": {
+    "number": "RUS-TEST-888",
+    "service_type": "Тест",
+    "problem": "Тестовая проблема",
+    "contacts": "Тест",
+    "user_name": "Тест",
+    "status": "Тест",
+    "created_date": "14.12.2025 04:00",
+    "ready_date": "20.12.2025",
+    "master": "Тест Мастер",
+    "master_phone": "+79990000000"
+  }
+}
