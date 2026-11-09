@@ -1,14 +1,33 @@
+# Environment & Secrets
 .env
 *.env
+config.py
 secrets.ini
+
+# Logs & Data
 *.log
 logs/
+data/requests.json
+data/*.json
+!data/requests.example.json
+
+# Python & Caches
 __pycache__/
 *.py[cod]
 *$py.class
-venv/
+*.pyc
+
+# IDE & Editor caches
+.vs/
 .vscode/
 .idea/
-*.log
-__pycache__/
-*.pyc
+venv/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archives
+*.rar
+*.zip
+*.7z
